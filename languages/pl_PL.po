@@ -1,0 +1,158 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DevDmBootstrap3\n"
+"POT-Creation-Date: 2014-01-16 09:43+0700\n"
+"PO-Revision-Date: 2014-01-20 17:43+0100\n"
+"Last-Translator: Piotr Godlewski <godlewski.piotr@gmail.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:14
+msgid "Sorry This Page Does Not Exist!"
+msgstr "Przepraszamy. Ta strona nie istnieje!"
+
+#: comments.php:6 index.php:54
+msgid "Leave a Comment"
+msgstr "Napisz komentarz"
+
+#: comments.php:6 index.php:54
+msgid "One Comment"
+msgstr "(1) Komentarz"
+
+#: comments.php:6 index.php:54
+msgid "Comments"
+msgstr "Komentarze"
+
+#: footer.php:6
+msgid "created by"
+msgstr "napisane przez"
+
+#: functions.php:64
+#, php-format
+msgid "Page %s"
+msgstr "Strona %s"
+
+#: index.php:41
+#, php-format
+msgid "Permalink to %s"
+msgstr "Odnośnik do %s"
+
+#: template-part-footernav.php:7 template-part-topnav.php:9
+msgid "Toggle navigation"
+msgstr "Nawigacja"
+
+#: template-part-postmeta.php:6
+msgid "Edit"
+msgstr "Edytuj"
+
+#: template-part-postmeta.php:8
+msgid "Posted In"
+msgstr "Napisane w"
+
+#: theme-options.php:10
+msgid "Options"
+msgstr "Opcje"
+
+#: theme-options.php:19
+msgid "DevDm Options"
+msgstr "Opcje LunaProject"
+
+#: theme-options.php:57
+msgid "Your Business Name"
+msgstr "Nazwa Twojej firmy"
+
+#: theme-options.php:239
+msgid "Options Saved!"
+msgstr "Zapisane!"
+
+#: theme-options.php:249
+msgid "Right Sidebar"
+msgstr "Prawy Sidebar"
+
+#: theme-options.php:252
+msgid "Show the Right Sidebar"
+msgstr "Pokaż prawy Sidebar"
+
+#: theme-options.php:255
+msgid "Right Sidebar Size"
+msgstr "Rozmiar prawego Sidebara"
+
+#: theme-options.php:263
+msgid "Left Side Bar"
+msgstr "Lewy Sidebar"
+
+#: theme-options.php:266
+msgid "Show the Left Sidebar"
+msgstr "Pokaż lewy Sidebar"
+
+#: theme-options.php:269
+msgid "Left Sidebar Size"
+msgstr "Rozmiar lewego Sidebara"
+
+#: theme-options.php:277
+msgid "Show Header"
+msgstr "Pokaż nagłówek"
+
+#: theme-options.php:280
+msgid "Show The Main Header in the Template (logo/sitename/etc.)"
+msgstr "Pokaż główny nagłówek na stronie (logo / nazwa strony / itd.)"
+
+#: theme-options.php:283
+msgid "Show Post Meta"
+msgstr "Pokaż dane postu"
+
+#: theme-options.php:286
+msgid "Show Post Meta data (author, category, date created)"
+msgstr "Pokaż dane postu (data / kategoria / itd.)"
+
+#: theme-options.php:290
+msgid "Give Danny His Credit?"
+msgstr ""
+
+#: theme-options.php:293
+msgid "Show me some love and keep a link to DevDm.com in your footer."
+msgstr ""
+
+#: theme-options.php:298
+msgid "Save Changes"
+msgstr "Zapisz zmiany"
+
+#: lib/bootstrap-custom-menu-widget.php:15
+msgid "A custom menu widget that uses the wp_bootstrap_navwalker"
+msgstr "Niestandardowy widzet menu który używa wp_bootstrap_navwalker"
+
+#: lib/bootstrap-custom-menu-widget.php:19
+msgid "Boot Strap Menu"
+msgstr "Bootstrap Menu"
+
+#: lib/bootstrap-custom-menu-widget.php:62
+#: lib/bootstrap-custom-menu-widget.php:71
+msgid "Menu"
+msgstr "Menu"
+
+#: lib/bootstrap-custom-menu-widget.php:62
+msgid "Menu Name"
+msgstr "Nazwa menu"
+
+#: lib/bootstrap-custom-menu-widget.php:66
+msgid "Title"
+msgstr "Tytuł"
+
+#: lib/bootstrap-custom-menu-widget.php:77
+msgid "Default All Pages"
+msgstr "Wszystkie domyślne strony"
+
+#: lib/bootstrap-custom-menu-widget.php:87
+msgid "Menu Type"
+msgstr "Typ menu"
